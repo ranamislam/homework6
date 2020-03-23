@@ -1,0 +1,2 @@
+You can use/enter "Information.txt" as test file name.
+It is outside the source (src) code folder.
